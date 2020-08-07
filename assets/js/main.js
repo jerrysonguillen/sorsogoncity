@@ -9,7 +9,7 @@ function myCallback() {
   $(function () {
     $("#hero").height("100vh");
     $("#hero").prepend(
-      '<img src="../assets/images/whaleshark1.png" alt="whaleshark-shadow" id="whaleshark" class="d-none d-lg-block">'
+      '<img src="/sorsogoncity/assets/images/whaleshark1.png" alt="whaleshark-shadow" id="whaleshark" class="d-none d-lg-block">'
     );
     $("#load-me-later").show();
     $("#footer").show();
