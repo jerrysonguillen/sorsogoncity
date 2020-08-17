@@ -15,7 +15,6 @@ function myCallback() {
     $("#footer").show();
   });
 }
-
 $(window).on("load", function () {
   // Animate loader off screen
   $(".se-pre-con").fadeOut(4000);
