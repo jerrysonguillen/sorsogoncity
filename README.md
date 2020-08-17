@@ -1,3 +1,3 @@
-# http://sorsogoncity.gov.ph redesign
+# sorsogoncity.gov.ph Redesign
 
-%md <a href="https://jerrysonguillen.github.io/sorsogoncity/" target="_blank">Active Web Page Link</a>
+<a href="https://jerrysonguillen.github.io/sorsogoncity/" target="_blank">Click here to see Active Web Page</a>
